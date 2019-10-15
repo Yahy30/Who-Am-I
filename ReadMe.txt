@@ -17,9 +17,9 @@
      <body>
 
      <header>Here are the main learning sections for HTML,
-         see the Naviagation for specific pages.
+         see the Navigation for specific pages.
          </header> <p> https://www.google.ca/search?safe=strict&biw=1536&bih=722&tbm=isch&sa=1&ei=DmCfXZTWL9bO0PEP9qqs4AQ&q=pakistan+flag+&oq=pakistan+flag+&gs_l=img.3..0i67l6j0l4.29600.29600..30438...0.0..0.66.66.1......0....1..gws-wiz-img.fypsHZg73e0&ved=0ahUKEwiUleb7kZLlAhVWJzQIHXYVC0wQ4dUDCAc&uact=5#imgrc=7QHxq0CnFiVLKM</p>
-         
+
      <nav>
           <h3>This is the NAV Menu</h3>
 
